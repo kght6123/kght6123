@@ -26,14 +26,14 @@ I'm currently writing a doujinshi about Tailwind CSS!
 
 | ![Tailwind CSS まとめ Advanced！新世界へ](images/tailwindcss-matome.jpg) | ![Tailwind CSSの推し理由を語る本！](images/tailwindcss-oshiriyuu.jpg) | ![Next.jsとTailwind CSSで始めるWebアプリケーション開発](images/nextjs-tailwindcss.jpg) |
 |:-------------------:|:-------------------:|:-------------------:|
-| [Detail](https://kght6123.booth.pm/items/3039023) | [Detail](https://kght6123.booth.pm/items/4151967) | [Detail](https://kght6123.booth.pm/items/4485386) |
+| [Booth](https://kght6123.booth.pm/items/3039023) [Amazon](https://kdp.amazon.co.jp/amazon-dp-action/jp/dualbookshelf.marketplacelink/B0BFHZG1QK) | [Booth](https://kght6123.booth.pm/items/4151967) [Amazon](https://kdp.amazon.co.jp/amazon-dp-action/jp/dualbookshelf.marketplacelink/B0BF34MLL9) | [Booth](https://kght6123.booth.pm/items/4485386) |
 
 You can find more details and purchase it [here](https://kght6123.booth.pm).
 
 ### 📫 Contact
 
 Twitter: https://twitter.com/kght6123
-GitHub: https://github.com/kght6123 https://github.com/kght6123-work
+GitHub: https://github.com/kght6123
 
 Feel free to reach out for inquiries or collaboration opportunities!
 
