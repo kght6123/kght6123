@@ -2,13 +2,13 @@
 
 Front-end Engineer | React.js/Next.js | Tailwind CSS Enthusiast
 
-![Profile](images/profile.png)
-
 #### 👶 About Me
 
 I am a father of two who enjoys web front-end development. Recently, I've been mainly using TypeScript, React, Next.js, Tailwind CSS, etc.
 
 I'll be working an average of 1-3 hours a day, but I'm looking for a repository where I can improve my skills or contribute as a side job. (as of 2024)
+
+![Profile](images/profile.png)
 
 #### 🛠️ Skills
 
