@@ -32,8 +32,8 @@ You can find more details and purchase it [here](https://kght6123.booth.pm).
 
 ### 📫 Contact
 
-Twitter: https://twitter.com/kght6123
-GitHub: https://github.com/kght6123
+- Twitter: https://twitter.com/kght6123
+- GitHub: https://github.com/kght6123
 
 Feel free to reach out for inquiries or collaboration opportunities!
 
